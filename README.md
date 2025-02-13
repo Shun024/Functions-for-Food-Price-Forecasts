@@ -1,4 +1,4 @@
-# Food Price Forcasts
+# Food Price Forecasts
 
 Perform a predictive analysis of food prices in Rwanda, then wrap code into functions for reproducibility.
 
